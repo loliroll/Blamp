@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_40d8c276494224f90d363d28d5b166c486854630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\AdministratorPC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_7087568d62758c34cea24d47118ffba26253641b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\AdministratorPC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_7087568d62758c34cea24d47118ffba26253641b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3d4e7030854e0033babc353422513764ae655c52">
+        <dex dex="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4ddd5e1ae0bb92d4c7986c97b049fedeaefad661\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_0fce09e5184d4dafe540cf4143187c10ba8e23b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_69ec1aade85219c2a447608aa045066e4d42dddb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_69ec1aade85219c2a447608aa045066e4d42dddb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_0fce09e5184d4dafe540cf4143187c10ba8e23b8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_d488b3bb901e9465d391a624549b6d70aba01c20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a6c5c0cceb5366172dd68ed3cb737a43640efa48">
+        <dex dex="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d659b4db51df27514ff4a1d78b668f901a7813a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_3406652da436efc3a9028d7a8c91d2125992741b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_d488b3bb901e9465d391a624549b6d70aba01c20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_3406652da436efc3a9028d7a8c91d2125992741b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\AdministratorPC\Downloads\locsdkDemo6.2.3\locsdkDemo6.2.3\android_studio\Blamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_40d8c276494224f90d363d28d5b166c486854630\classes.dex" />
+    </item>
+
+</items>
